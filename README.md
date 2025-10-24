@@ -1,23 +1,37 @@
-## Welcome to My GitHub! 🌟
 
-Hi there, and thanks for stopping by!  
-
-I’m passionate about growing my career, learning new tech skills, and making work life a little less stressful — and a lot more fun.  
-
-Here, you’ll find:  
-
-- 🔧 Projects I’m building or contributing to  
-- 📚 Lessons and insights from juggling work, deadlines, and debugging  
-- 🌱 Inspiration for anyone navigating the ups and downs of the corporate world  
-
-Whether you’re here to find useful code, get inspired, or just see how someone else is figuring things out — you’re in the right place!  
-
-Let’s connect, learn, and grow together — one repo at a time.  
-You bring the snacks, I’ll bring the code! 🍪💻
+# 👋 Hello, I'm Rajdip Dutta!
 
 
+I'm an aspiring **Data Analyst** with a passion for turning data into actionable insights. My toolkit includes:
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript]( https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+- **Excel**: Advanced dynamic formulas, Power Query, Power Pivot, DAX, ETL, pivot tables, scenario planning, and more.
+- **Power BI**: Designing interactive dashboards and reports, data modeling, and advanced visualization techniques.
+- **SQL**: Writing complex queries to extract, transform, and analyze data from relational databases.
+- **Python**: Automating data tasks, data cleaning, and leveraging libraries like Pandas, NumPy for data analysis.
+
+---
+
+## 🛠️ My Skill Set
+
+### Languages and Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌱 What I'm currently working on
+- Developing projects to showcase my data analysis skills.
+- Deepening my knowledge of advanced Excel and Power BI features.
+
+## 📫 How to reach me
++ **LinkedIn**: https://www.linkedin.com/in/rajdip-dutta07/
++ **Email**: rajdipdutta7426@gmail.com
+
+## 🤝 Let's connect!
+
+Feel free to explore my repositories and reach out if you’re interested in collaborating on a project or chatting about data!
 
 ---
